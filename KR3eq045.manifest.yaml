@@ -1,0 +1,451 @@
+canonical_identifier: bkk:krp/KR3eq045/v1
+canonical_location: https://kanripo.org/bkk/KR3eq045/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 鬱岡齋醫學筆麈
+  identifiers:
+    krp: KR3eq045
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq045.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq045_000.yaml, hash: 'sha256:ab2081a17bfda1072aa112652a34f303b5eed18749b5de518e9127c0374a8727'}
+  - {seq: 1, filename: KR3eq045_001.yaml, hash: 'sha256:9843c794373172b608ad16270343c41c75ad72936dbb8f659b495ca852a8f9b7'}
+  - {seq: 3, filename: KR3eq045_003.yaml, hash: 'sha256:4ece14c64771ad95f76de24e1204dfb36e5b12a56e3c380d62dc76c265fdbf7e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq045_000.markers.yaml, hash: 'sha256:1491239263f7a3af6f68531376661af97606be349ab752fc015353f11ebb2614'}
+  - {seq: 1, role: markers, filename: assets/KR3eq045_001.markers.yaml, hash: 'sha256:101a0418b2399392f938f13b1153a35f9429a2edb186ad91f64f385b61abbb44'}
+  - {seq: 3, role: markers, filename: assets/KR3eq045_003.markers.yaml, hash: 'sha256:a2b580b19f1d0599b9fa99f68facd256f3c3801e04288ca7f97404fa698c7422'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq045_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 266
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 6975
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 118
+  label: 稀痘秘方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d3
+    span:
+    - body
+    - 118
+    - 159
+  label: 寒熱因用
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d4
+    span:
+    - body
+    - 159
+    - 649
+  label: 讀本草法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d5
+    span:
+    - body
+    - 649
+    - 769
+  label: 藥誤
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d6
+    span:
+    - body
+    - 769
+    - 903
+  label: 痰火
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d7
+    span:
+    - body
+    - 903
+    - 1264
+  label: 中風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d8
+    span:
+    - body
+    - 1264
+    - 2452
+  label: 痰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d9
+    span:
+    - body
+    - 2452
+    - 2870
+  label: 頭痛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d10
+    span:
+    - body
+    - 2870
+    - 3038
+  label: 補精忌涼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d11
+    span:
+    - body
+    - 3038
+    - 3085
+  label: 渴由血虛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d12
+    span:
+    - body
+    - 3085
+    - 3310
+  label: 脾虛補腎
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d13
+    span:
+    - body
+    - 3310
+    - 3392
+  label: 口糜
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d14
+    span:
+    - body
+    - 3392
+    - 3456
+  label: 身重宜補
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d15
+    span:
+    - body
+    - 3456
+    - 3629
+  label: 五積
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d16
+    span:
+    - body
+    - 3629
+    - 3701
+  label: 陰維病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d17
+    span:
+    - body
+    - 3701
+    - 3909
+  label: 氣疾求腎
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d18
+    span:
+    - body
+    - 3909
+    - 4166
+  label: 小便不利
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d19
+    span:
+    - body
+    - 4166
+    - 4720
+  label: 大便不通
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d20
+    span:
+    - body
+    - 4720
+    - 4752
+  label: 腦病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d21
+    span:
+    - body
+    - 4752
+    - 5177
+  label: 淋濁
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d22
+    span:
+    - body
+    - 5177
+    - 5363
+  label: 小便黃赤
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d23
+    span:
+    - body
+    - 5363
+    - 5447
+  label: 遺尿
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d24
+    span:
+    - body
+    - 5447
+    - 5886
+  label: 疝有補法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d25
+    span:
+    - body
+    - 5886
+    - 6170
+  label: 潰瘍
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq045_jc_001-d3d26
+    span:
+    - body
+    - 6170
+    - 6975
+  label: 青霞散方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 6729
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 514
+  label: 發熱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4d3
+    span:
+    - body
+    - 514
+    - 681
+  label: 脅痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4d4
+    span:
+    - body
+    - 681
+    - 1021
+  label: 白淫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4d5
+    span:
+    - body
+    - 1021
+    - 1437
+  label: 治法有五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4d6
+    span:
+    - body
+    - 1437
+    - 1712
+  label: 目翳
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4d7
+    span:
+    - body
+    - 1712
+    - 1860
+  label: 腹脹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4d8
+    span:
+    - body
+    - 1860
+    - 1947
+  label: 口糜用乾薑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4d9
+    span:
+    - body
+    - 1947
+    - 2509
+  label: 陽病見陰脈
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4d10
+    span:
+    - body
+    - 2509
+    - 3314
+  label: 相火
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4d11
+    span:
+    - body
+    - 3314
+    - 3579
+  label: 天有二火
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4d12
+    span:
+    - body
+    - 3579
+    - 4068
+  label: 相火君火
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4d13
+    span:
+    - body
+    - 4068
+    - 4290
+  label: 五味補瀉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4d14
+    span:
+    - body
+    - 4290
+    - 6520
+  label: 治肝補脾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq045_jc_003-d4d15
+    span:
+    - body
+    - 6520
+    - 6729
+  label: 麝臍
+  type: section
+  level: 2
+hash: sha256:9abe34e9188bec1b38c3345a02469d52c9b969e97ab074aec095423c48034831
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
