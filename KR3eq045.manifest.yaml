@@ -22,7 +22,7 @@ assets:
   - {seq: 3, filename: KR3eq045_003.yaml, hash: 'sha256:4c3b9801139bdec71e305ab099a7d3d39084d82f877252924036cad48744df3f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eq045_000.markers.yaml, hash: 'sha256:2dc78da98997f52e662fa56cc63f0e4862c301df5aa7c544bbe8b8cbb9e70970'}
-  - {seq: 1, role: markers, filename: assets/KR3eq045_001.markers.yaml, hash: 'sha256:625d1ceda1ca540b50ea855ab6ccc36c7724773b3a744a2e5f8f54775c3c2135'}
+  - {seq: 1, role: markers, filename: assets/KR3eq045_001.markers.yaml, hash: 'sha256:8a631b789290a9fb15ed48841b5ad93c436d66526f4780a893a02a22f0eeb0d5'}
   - {seq: 3, role: markers, filename: assets/KR3eq045_003.markers.yaml, hash: 'sha256:9e47f4fd624d49cd4d90de0c3f23a316f942b16e0838860a782b804d981a99bb'}
 table_of_contents:
 - ref:
@@ -445,7 +445,7 @@ table_of_contents:
   label: 麝臍
   type: section
   level: 2
-hash: sha256:8550d878e3a123e0c49d983136d5264b82b5def221593c1a58553c81923db83f
+hash: sha256:639bcc9b23743e3a231fbe77e2cfec2a9faa8330292abf641f51b8d025ca6103
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
