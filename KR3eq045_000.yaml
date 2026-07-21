@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3eq045/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 序鬱岡齋筆麈明王肯堂撰四庫全書採藏之其書目提要復甚稱之嘗觀自序云余幼而好博覽九流百家亡弗探也遇會心處欣然至忘寢食既寡交遊無同好可與談者時時札記以管城用為談麈蓋以天縱之才益以力學發為言論宜爾獨具隻眼排倒一切也書凡十二卷論醫學者占十之三四余讀而稱善思所以介紹於同志因囑錢子季寅節録專册細加校讎並張小目釐為二卷易其名曰醫學筆麈夫王氏六科準繩集明以前醫學之大成博採廣搜幾家置一編讀此將益嘆其見高識廣得未曾有焉至此書成於萬曆三十年壬寅準繩成於萬年曆三十二年甲辰為時僅二載當是輯準繩時有所發而另存者則更可與準繩相互證云丙寅八月上海秦之濟伯未甫記
   hash: sha256:bcda461f84c1dec7e55f2fe4931ab4cb490e895a6c6b02a3880ef77e408ec2b8
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3eq045_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 鬱岡齋醫學筆麈
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3eq045.xml
-hash: sha256:a507c302262476eebf53249d81d28e442c3e01c44e4480a96f1a8105935e32fb
+hash: sha256:ad1d5bb03f72a9e3b95c13158f174608439234082d6bf2d6b9bb27c5c88d12ef
